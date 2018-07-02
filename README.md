@@ -1,4 +1,4 @@
-#Udacity Classic Arcade Game Clone
+#Udacity Classic Arcade Game
 In this game you have a Player and Enemies (Bugs).
 The goal of the player is to reach the water, without colliding into any one of the enemies.
 The player can move left, right, up and down.
