@@ -7,4 +7,10 @@ The enemies move in varying speeds on the paved block portion of the scene.
 Once a the player collides with an enemy, the game is reset and the player moves back to the start square.
 Once the player reaches the water the game is won.
 
+## How to play the game locally ..?
+
+1- Clone or download the project from that green buttun.
+2- Once you cloned or downloaded the project open the folder. 
+3- Open the index.html file on your browser to play the game. 
+4- The instructions above will teach you how to play.
 ## Hope you like my project 🙂 ... 
