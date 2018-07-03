@@ -9,8 +9,8 @@ Once the player reaches the water the game is won.
 
 ## How to play the game locally ..?
 
-1- Clone or download the project from that green buttun.
-2- Once you cloned or downloaded the project open the folder. 
-3- Open the index.html file on your browser to play the game. 
+1- Clone or download the project from that green buttun.</br>
+2- Once you cloned or downloaded the project open the folder.</br> 
+3- Open the index.html file on your browser to play the game.</br>
 4- The instructions above will teach you how to play.
 ## Hope you like my project 🙂 ... 
